@@ -1,0 +1,31 @@
+
+
+  /* App.css */
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Centrer verticalement sur la hauteur de la fenêtre */
+  }
+
+body{
+  background-color: rgb(13, 116, 81);
+}
+
+.question-container {
+  position: fixed;
+  bottom: 450px;
+  width: 100%;
+  text-align: center;
+  padding-bottom: 20px;
+  
+}
+
+.setMessage{
+  position: fixed;
+  bottom: 350px;
+  width: 100%;
+  text-align: center;
+  padding-bottom: 20px;
+  
+}
